@@ -1,3 +1,4 @@
+#Prints out the manhattan distance of two people
 
 def manhattan(rating1, rating2):
    distance = 0
