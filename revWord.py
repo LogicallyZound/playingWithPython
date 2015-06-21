@@ -1,3 +1,4 @@
+#reverse a file line by line and print
 import sys
 test_cases = open(sys.argv[1], 'r')
 

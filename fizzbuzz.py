@@ -1,3 +1,7 @@
+#for a number 1 to n if the number is divisible by
+# input X or Y print F or B accordingly.
+# print FB for both divisible by X and Y
+
 import sys
 test_cases = open(sys.argv[1], 'r')
 
